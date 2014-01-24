@@ -1,5 +1,5 @@
 {
-    "name": "pear/numbers_words",
+    "name": "pear/numbers_words_bundle",
     "type": "library",
     "description": "Translating numbers to words",
     "keywords": ["numbers", "words", "translation","pear", "conversion"],
